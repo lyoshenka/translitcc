@@ -22,8 +22,6 @@
 .controlWindowBody {
 	font-family:arial, helvetica, sans-serif;
 	font-size:8pt;
-	padding-top: 7px;		/* by FredCK */
-	margin: 0px;		/* by FredCK */
 	color:000000;
 	background-color:DADADA;
 }
